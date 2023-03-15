@@ -18,3 +18,5 @@ There are three directories for images:
   
 * `images/` contains images created some other way. Images are source of
   truth and should not be deleted.
+
+* Modularizing Shiny app code. https://shiny.rstudio.com/articles/modules.html
